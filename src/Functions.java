@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Ex1 {
+public class Functions {
     public static void main(String[] args) {
         int number = 5;
         int max =  ex5(number);
