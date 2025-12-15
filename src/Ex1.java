@@ -5,7 +5,6 @@ public class Ex1 {
     //יש לכתוב פונקציה שמקבלת מערך של מספרים ומספר ומחזירה מערך ללא המספר
     public static int [] removeNum(int [] arr ,int num){
         int count = 0;
-
         for (int i = 0; i < arr.length; i++) {
             if (arr[i]!=num){
                 count++;
